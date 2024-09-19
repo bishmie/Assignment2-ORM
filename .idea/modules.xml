@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/HQL.iml" filepath="$PROJECT_DIR$/HQL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JPQL.iml" filepath="$PROJECT_DIR$/JPQL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ORM-Assignment-02.iml" filepath="$PROJECT_DIR$/ORM-Assignment-02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SQL.iml" filepath="$PROJECT_DIR$/SQL.iml" />
+    </modules>
+  </component>
+</project>
